@@ -5,7 +5,7 @@ We provide a usage of the filter() and reduce() function with a simple example.
 ## Project Description
 
 In this file, you can see the usage of the filter() and reduce() function with a simple example.
-The goal of the problem is finding the multiplication o the odd numbers where they given in a list. 
+The goal of the problem is finding the multiplication of the odd numbers where they given in a list. 
 You can re-orginize the list and extend the options to be able to sophisticate the code. 
 
 ## Execution
